@@ -11,11 +11,11 @@ Smile and happy Coding.
 ### Set up MySQL
 ```
 mysql -u root -p 
-> CREATE USER 'regUsers'@'localhost' IDENTIFIED BY 'Reg5W0rd4PASS';
-> GRANT ALL PRIVILEGES ON *.* TO 'regUsers'@'localhost';
+> CREATE USER 'crud_mis'@'localhost' IDENTIFIED BY 'm1$4PASS';
+> GRANT ALL PRIVILEGES ON *.* TO 'crud_mis'@'localhost';
 > FLUSH PRIVILEGES;
 >
-> CREATE DATABASE test_db;
+> CREATE DATABASE db_crudMis;
 ```
 
 Now we need to import schema to database.
