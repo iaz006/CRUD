@@ -25,6 +25,6 @@ mysql -u regUsers -p test_db < project/location/Spring5DummyProjJavaConfig/schem
 ```
 ### Run
 Run with your editor.
-check 'project/location/Spring5DummyProjJavaConfig/schema/schema-initial.sql' for username and password.
+check 'project/location/CRUD/schema/schema-initial.sql' for username and password.
 
 #### -- THANK YOU
