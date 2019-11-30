@@ -21,7 +21,7 @@ mysql -u root -p
 Now we need to import schema to database.
 
 ```
-mysql -u regUsers -p test_db < project/location/CRUD/schema/schema-initial.sql
+mysql -u regUsers -p db_crudMis < project/location/CRUD/schema/schema-initial.sql
 ```
 ### Run
 Run with your editor.
